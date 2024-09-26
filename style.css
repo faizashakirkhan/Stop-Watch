@@ -1,0 +1,19 @@
+body{
+    height: 90vh;
+    width: 100vw;
+    background-image: url("image/stopclock-cutout-6-seconds-TR75C1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    overflow: hidden;
+}
+.btn{
+    margin: 10px;
+}
+.digit{
+    font-size: 50px;
+}
+.text{
+    margin-top: 50px;
+    font-size: 24px;
+
+}
